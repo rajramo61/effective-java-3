@@ -1,9 +1,8 @@
 package org.rajesh.objcreation.staticfactory;
 
 
-import java.lang.reflect.Array;
-
 /**
+ * <h2>Item-1</h2>
  * <ul>
  *      <li><strong>Advantages</strong></li>
  * </ul>
